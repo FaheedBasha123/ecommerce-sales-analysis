@@ -159,10 +159,10 @@ The interactive dashboard will open in your browser.
 
 ## 👨‍💻 Author
 
-**Dhanush**
+**Faheed**
 
-- GitHub: https://github.com/dhanush080607
-- LinkedIn: https://linkedin.com/in/h-dhanush-189565327
+- GitHub: [https://github.com/dhanush080607](https://github.com/FaheedBasha123/)
+- LinkedIn: [https://linkedin.com/in/h-dhanush-189565327](https://www.linkedin.com/in/shaik-faheed-basha-64b378320/)
 
 ---
 

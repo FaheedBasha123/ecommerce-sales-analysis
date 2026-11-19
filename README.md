@@ -161,8 +161,8 @@ The interactive dashboard will open in your browser.
 
 **Faheed**
 
-- GitHub: [https://github.com/dhanush080607](https://github.com/FaheedBasha123/)
-- LinkedIn: [https://linkedin.com/in/h-dhanush-189565327](https://www.linkedin.com/in/shaik-faheed-basha-64b378320/)
+- GitHub: [https://github.com/FaheedBasha123](https://github.com/FaheedBasha123/)
+- LinkedIn: [https://linkedin.com/in/shaik-faheed-basha-64b378320](https://www.linkedin.com/in/shaik-faheed-basha-64b378320/)
 
 ---
 

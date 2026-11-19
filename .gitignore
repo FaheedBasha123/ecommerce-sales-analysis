@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Large datasets
+dataset/*.xlsx
+dataset/*.csv
+dataset/*.zip
+
+# Generated Spark data
+outputs/cleaned_data/
+outputs/*.parquet
+spark-warehouse/
+
+# Temporary files
+*.log
+.DS_Store
+
+# Environment variables
+.env
